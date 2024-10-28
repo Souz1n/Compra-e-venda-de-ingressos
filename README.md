@@ -33,17 +33,11 @@ Arquivo de Usuários (usuarios.dat): O sistema utiliza um arquivo binário para 
 Arquivo de Eventos (eventos.txt): O sistema utiliza um arquivo de texto para armazenar informações dos eventos.
 
 Como Executar
-Compile os arquivos .c:
-
-
-bash
-Copiar código
+Compile os arquivos copiando o código:
 gcc main.c funcoes.c -o meu_programa
 
 
-Execute o programa:
-bash
-Copiar código
+Execute o programa: Copiando código
 .\meu_programa
 
 
