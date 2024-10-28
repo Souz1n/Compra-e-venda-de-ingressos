@@ -36,9 +36,7 @@ Como Executar
 Compile os arquivos copiando o código:
 gcc main.c funcoes.c -o meu_programa
 
-
-Execute o programa: Copiando código
-.\meu_programa
+Execute o programa copiando código:.\meu_programa
 
 
 Observações
