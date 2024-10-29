@@ -1,6 +1,5 @@
 Compra_Venda_Ingressos
 
-=======
 Sistema de Gerenciamento de Eventos e Usuários
 
 Este projeto é um sistema em C para gerenciamento de eventos e transações financeiras para diferentes tipos de usuários, com funcionalidades para login, cadastro, manipulação de saldo e controle de eventos.
