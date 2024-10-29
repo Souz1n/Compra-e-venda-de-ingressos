@@ -47,3 +47,7 @@ Execute o programa copiando código:.\meu_programa
 Observações
 Arquivos de Dados: Certifique-se de que usuarios.dat e eventos.txt estão disponíveis na pasta de execução do programa. Caso contrário, o sistema criará novos arquivos automaticamente.
 Permissões de Escrita: O programa realiza gravações nos arquivos de dados; verifique se você possui permissão de escrita no diretório.
+
+- Pedro Henrique Lima : 22.124.019-5
+- Gustavo Delfino : 22.124.033-9
+- Gustavo Souza: 22.124.058-3
