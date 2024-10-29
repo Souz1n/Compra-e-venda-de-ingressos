@@ -6,10 +6,13 @@ Este projeto é um sistema em C para gerenciamento de eventos e transações fin
 
 Estrutura do Projeto
 funcoes.h: Arquivo de cabeçalho contendo a definição da estrutura USUARIO.
-funcoes.c: Arquivo com as funções principais, incluindo cadastro e login de usuários, manipulação de saldo, gerenciamento de eventos, e outras funcionalidades.
-main.c: Arquivo principal que inicia o programa, gerencia o login dos usuários e direciona para os menus específicos de acordo com o tipo de usuário.
-Funcionalidades Principais
 
+funcoes.c: Arquivo com as funções principais, incluindo cadastro e login de usuários, manipulação de saldo, gerenciamento de eventos, e outras funcionalidades.
+
+main.c: Arquivo principal que inicia o programa, gerencia o login dos usuários e direciona para os menus específicos de acordo com o tipo de usuário.
+
+
+Funcionalidades Principais
 
 1. Login e Cadastro
 Login de Administrador: Acesso via CPF e senha do administrador. Após login bem-sucedido, o usuário é direcionado ao menu administrativo.
